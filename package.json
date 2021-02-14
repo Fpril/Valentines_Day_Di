@@ -1,0 +1,23 @@
+{
+  "name": "valentines_day_di",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fpril/Valentines_Day_Di.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fpril/Valentines_Day_Di/issues"
+  },
+  "homepage": "https://github.com/Fpril/Valentines_Day_Di#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
